@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Viewdata from './Components/Viewdata';
 import Stordata from './Components/Stordata';
